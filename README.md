@@ -1,6 +1,8 @@
 
 https://quiz-01-o1w57cz0k-brunos-projects-c7a5ded8.vercel.app/
 
+https://quiz-01-kappa.vercel.app/
+
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
